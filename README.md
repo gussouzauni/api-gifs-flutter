@@ -1,4 +1,4 @@
-# apigifs
+# GIFS
 
 A new Flutter application.
 
